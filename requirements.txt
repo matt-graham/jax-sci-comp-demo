@@ -1,7 +1,8 @@
 array_api_compat
 arviz
 corner
-jax~=0.4.32
+jax~=0.7
 matplotlib
 mici~=0.3
 numpy
+jupyterlab
