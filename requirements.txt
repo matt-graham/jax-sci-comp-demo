@@ -3,6 +3,6 @@ arviz
 corner
 jax~=0.7
 matplotlib
-mici~=0.3
+mici~=0.4
 numpy
 jupyterlab
